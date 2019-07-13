@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Litecoin</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Classic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-2782.000000, -410.000000)" id="Litecoin" fill="#BEBEBE">
+            <g transform="translate(2782.000000, 410.000000)">
+                <path d="M128,256 C198.692448,256 256,198.692448 256,128 C256,57.307552 198.692448,0 128,0 C57.307552,0 0,57.307552 0,128 C0,198.692448 57.307552,256 128,256 Z M89.4279411,127.207919 L73.2474731,133.201915 L68.6743869,150.992591 L84.6814291,145.325479 L74.1575286,186.368 L180.843133,186.368 L187.392,162.038802 L121.676011,162.038802 L129.84487,128.974739 L147.854118,122.442369 L152.086805,104.398769 L135.153038,110.580529 L148.475856,58.368 L107.754176,58.368 L89.4279411,127.207919 Z" id="Logo"></path>
+            </g>
+        </g>
+    </g>
+</svg>

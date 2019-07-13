@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Monero</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Classic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-5829.000000, -410.000000)" id="Monero">
+            <g transform="translate(5829.000000, 410.000000)">
+                <path d="M44.544,169.256038 L44.544,60.9281024 L128,143.872102 L210.432,60.9281024 L210.432,169.256038 L249.202688,169.256038 C253.607936,156.31063 256,142.43543 256,128.000102 C256,57.3072384 198.69184,0.0001024 128,0.0001024 C57.30816,0.0001024 0,57.3072384 0,128.000102 C0,142.43543 2.392064,156.31063 6.797312,169.256038 L44.544,169.256038 Z" id="Fill-1" fill="#ED472F"></path>
+                <path d="M182.784,194.048 L182.784,127.488 L128,182.272 L72.192,127.488 L72.192,194.048 L18.338816,194.048 C40.748032,231.174144 81.473536,256 128,256 C174.526464,256 215.251968,231.174144 237.661184,194.048 L182.784,194.048 Z" id="Fill-3" fill="#4C4C4C"></path>
+            </g>
+        </g>
+    </g>
+</svg>

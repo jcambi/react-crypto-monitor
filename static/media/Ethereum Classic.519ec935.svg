@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="155px" height="256px" viewBox="0 0 155 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Ethereum Classic</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Classic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-300.000000, -1122.000000)" id="Ethereum-Classic" fill="#589573">
+            <g transform="translate(300.000000, 1122.000000)">
+                <path d="M0,127.007752 L79.379845,0 L79.379845,92.8107532 L0,127.007752 Z M154.790698,127.007752 L79.379845,92.8555235 L79.379845,0 L154.790698,127.007752 Z" id="Combined-Shape"></path>
+                <path d="M79.379845,183.565891 L0,138.918658 L79.379845,104.186047 L79.379845,183.565891 Z M154.790698,138.926113 L79.379845,183.565891 L79.379845,104.186047 L154.790698,138.926113 Z" id="Combined-Shape"></path>
+                <path d="M0,148.837209 L79.379845,194.65993 L79.379845,256 L0,148.837209 Z M154.790698,148.837209 L79.379845,256 L79.379845,194.654622 L154.790698,148.837209 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

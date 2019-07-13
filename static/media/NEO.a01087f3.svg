@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="215px" height="256px" viewBox="0 0 215 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>NEO</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="19.0762886%" x2="0%" y2="80.1721653%" id="linearGradient-1">
+            <stop stop-color="#63CC0E" offset="0%"></stop>
+            <stop stop-color="#A7F21F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Classic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-4010.000000, -410.000000)" id="NEO">
+            <g transform="translate(4010.000000, 410.000000)">
+                <polygon id="Rectangle-3" fill="url(#linearGradient-1)" points="0 47.9478827 86.3061889 88.8078176 86.3061889 256 0 215.140065"></polygon>
+                <polygon id="Rectangle-4" fill="#63CC0E" points="126.749186 76.2996743 214.723127 44.1954397 214.723127 211.80456 126.749186 170.527687"></polygon>
+                <polygon id="Rectangle-5" fill="#63CC0E" points="3.33550489 44.6123779 128.416938 0 213.472313 40.0260586 88.8078176 85.0553746"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
